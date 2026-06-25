@@ -1,61 +1,142 @@
-# alec-daschner-work-profile
-Work profile and portfolio for writing, documentation, safety, risk, compliance, admin, and remote support services.
-# Alec Daschner Work Profile
+# Alec P. Daschner — Work Profile & Portfolio
 
-Practical writing, documentation, safety, risk, compliance, admin, and remote support services.
+Welcome to my professional work profile repository. This space documents my expertise, services, and practical experience across writing, documentation, safety, risk management, compliance, and remote administrative support.
 
-## About
+---
 
-I am building a focused work profile around practical documentation, writing, admin support, safety/risk/compliance thinking, and structured remote support.
+## 🎯 About Me
 
-My background includes work exposure in production, planning, safety, risk awareness, documentation, problem-solving, and people-facing environments. I value clear communication, honest work, practical systems, and reliable follow-through.
+I'm Alec P. Daschner, a professional specializing in:
+- **Technical & Professional Writing** — Clear, precise documentation for diverse audiences
+- **Documentation Management** — Creating, organizing, and maintaining comprehensive documentation systems
+- **Safety & Risk Management** — Identifying, assessing, and mitigating operational risks
+- **Compliance & Standards** — Ensuring adherence to regulatory requirements and best practices
+- **Administrative Support** — Remote support services and administrative coordination
+- **Process Improvement** — Streamlining workflows and enhancing operational efficiency
 
-This profile is not about titles or image. It is about useful work, clear documents, proper communication, and fair value exchange.
+My background includes practical work exposure in production, planning, safety, risk awareness, documentation, problem-solving, and people-facing environments. I value clear communication, honest work, and structured approaches to practical challenges.
 
-## Services
+---
 
-I can assist with:
+## 💼 Services & Expertise
 
-- Document writing and editing
-- CV and profile writing
-- Admin documents and structured templates
-- WhatsApp and email communication drafts
-- Safety, risk, and compliance document support
-- Procedure, checklist, and basic system documentation
-- Remote support for small businesses, individuals, and practical work needs
+**Writing & Documentation**
+- Technical documentation and user guides
+- Policy and procedure documentation
+- Compliance and regulatory writing
+- Professional correspondence and proposals
+- Document editing and style guidance
 
-## Work Style
+**Safety & Risk Management**
+- Risk assessment and analysis
+- Safety protocol development
+- Incident documentation and reporting
+- Hazard identification and mitigation
 
-My approach is calm, honest, structured, and practical.
+**Compliance & Standards**
+- Regulatory compliance documentation
+- Policy development and implementation
+- Standards mapping and adherence
+- Audit preparation and documentation
 
-I focus on:
+**Administrative Support**
+- Remote coordination and support
+- Process documentation and improvement
+- Administrative workflow optimization
+- Operational reporting and analytics
+- Checklist and procedure development
 
-- Clear wording
-- Useful documents
-- Good communication
+---
+
+## 📚 Portfolio Sections
+
+### [Writing & Documentation](./docs/writing-documentation.md)
+Examples of technical writing, documentation standards, style guides, and sample projects demonstrating clear communication across different contexts.
+
+### [Safety & Risk Management](./docs/safety-risk-management.md)
+Risk assessments, safety protocols, incident documentation, and mitigation strategies developed across various operational contexts.
+
+### [Compliance & Standards](./docs/compliance-standards.md)
+Compliance frameworks, regulatory documentation, standards adherence, and audit-ready processes.
+
+### [Remote Admin Support](./docs/remote-admin-support.md)
+Administrative coordination, remote support services, workflow optimization, and operational support documentation.
+
+---
+
+## 🔗 Quick Links
+
+- **Portfolio:** [View detailed projects and examples](./projects/)
+- **Documentation:** [Browse documentation samples](./docs/)
+- **Templates:** [Reusable templates and frameworks](./templates/)
+- **Contact:** [Get in touch](./CONTACT.md)
+
+---
+
+## 📋 Repository Structure
+
+```
+alec-daschner-work-profile/
+├── README.md                          # This file
+├── docs/                              # Documentation portfolio
+│   ���── writing-documentation.md
+│   ├── safety-risk-management.md
+│   ├── compliance-standards.md
+│   └── remote-admin-support.md
+├── projects/                          # Sample projects and case studies
+├── templates/                         # Reusable templates and frameworks
+├── CONTACT.md                         # Contact information
+└── CHANGELOG.md                       # Updates and changes
+```
+
+---
+
+## 🎯 My Work Style
+
+My approach is calm, honest, structured, and practical. I focus on:
+
+- Clear, precise wording
+- Useful, actionable documents
+- Good communication and clarity
 - Practical next steps
-- Reliability
+- Reliability and follow-through
 - Respectful boundaries
 - Work that creates real value
 
-## Suitable Work
+---
+
+## 👥 Suitable For
 
 This profile is suitable for:
 
-- Remote admin support
-- Documentation support
-- Safety/risk/compliance assistance
-- Writing and editing tasks
+- Remote admin support and coordination
+- Documentation support and development
+- Safety, risk, and compliance assistance
+- Writing and professional editing tasks
 - Small business document support
 - Practical communication support
 - Project notes, checklists, and procedure drafting
 
-## Current Focus
+---
 
-I am currently building this profile step by step as a practical work and income path.
+## 📞 Get in Touch
 
-The aim is to create honest, useful, document-based work that can help people and businesses while building long-term credibility.
+Interested in discussing a project or learning more about my services?
 
-## Contact
+- **Contact:** [Get in touch](./CONTACT.md)
+- **GitHub:** [@A185228](https://github.com/A185228)
 
-Contact details can be provided on request.
+---
+
+## 📝 License & Usage
+
+This repository is public. Content is available for review and reference. For specific usage or licensing inquiries, please [contact me](./CONTACT.md).
+
+---
+
+**Last updated:** June 2026  
+**Repository:** [alec-daschner-work-profile](https://github.com/A185228/alec-daschner-work-profile)
+
+---
+
+*This work profile is maintained as a living document and is regularly updated with new projects, insights, and professional developments.*
